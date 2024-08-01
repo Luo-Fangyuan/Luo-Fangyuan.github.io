@@ -3,7 +3,7 @@ permalink: /
 title: "Bio & Research Interests"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /_pages/
   - /about.html
 ---
 
