@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio & Research Interests"
+title: "👧Bio & Research Interests"
 author_profile: true
 redirect_from: 
   - /_pages/
@@ -19,7 +19,7 @@ My research interests are machine learning and data mining for the applications 
 
 Feel free to contact me if you are seeking any form of collaboration.
 
-# Publications
+# 📑Publications
 
 - **[AAAI 2024]** **Fangyuan Luo**, Jun Wu. <u>Optimizing Recall in Deep Graph Hashing Framework for Item Retrieval (Student Abstract).</u> **The 38th AAAI Conference on Artificial Intelligence**, 2024. <font color=Red>(CCF-A Conference)</font> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/30477) [[codes]]() [[slides]]() [[poster]]()
 
@@ -39,7 +39,7 @@ Feel free to contact me if you are seeking any form of collaboration.
 
 - **[IEEE IS 2020]** Jun Wu, **Fangyuan Luo**, Yujia Zhang, Haishuai Wang. <u>Semi-discrete Matrix Factorization</u>. **IEEE Intelligent Systems**, 2020. <font color=Red>(CAA-B Journal)</font> [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9171422) [[codes]](https://github.com/Luo-Fangyuan/SDMF) [[slides]]() [[poster]]()
 
-# Services & Awards
+# 🏆Services & Awards
 
 ## Services
 
@@ -48,6 +48,6 @@ Feel free to contact me if you are seeking any form of collaboration.
 - SIGIR Student Travel Award (2022)
 
 
-# Teaching
+# 🧑‍🏫Teaching
 
 ---
