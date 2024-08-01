@@ -21,21 +21,23 @@ Feel free to contact me if you are seeking any form of collaboration.
 
 # Publications
 
-- **[ACM TKDD 2024]** **Fangyuan Luo**, Jun Wu, Tao Wang. <u>Discrete Listwise Content-Aware Recommendation.</u> **ACM Transactions on Knowledge Discovery from Data**, 2023. <font color=Red>(CCF-B Journal)</font> [[paper]]() [[codes]]()
+- **[AAAI 2024]** **Fangyuan Luo**, Jun Wu. <u>Optimizing Recall in Deep Graph Hashing Framework for Item Retrieval (Student Abstract).</u> **The 38th AAAI Conference on Artificial Intelligence**, 2024. <font color=Red>(CCF-A Conference)</font> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/30477) [[codes]]()
 
-- **[SIGIR 2023]** **Fangyuan Luo**, Jun Wu. <u>User-Dependent Learning to Debias for Recommendation</u>. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2023. <font color=Red>(CCF-A Conference)</font> [[paper]]() [[codes]]()
+- **[ACM TKDD 2024]** **Fangyuan Luo**, Jun Wu, Tao Wang. <u>Discrete Listwise Content-Aware Recommendation.</u> **ACM Transactions on Knowledge Discovery from Data**, 2023. <font color=Red>(CCF-B Journal)</font> [[paper]](https://dl.acm.org/doi/pdf/10.1145/3609334) [[codes]]()
 
-- **[ACM TOIS 2023]** Honglei Zhang, **Fangyuan Luo**, Jun Wu, Xiangnan He, Yidong Li. <u>LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization</u>. **ACM Transactions on Information Systems**, 2023. <font color=Red>(CCF-A Journal)</font> [[paper]]() [[codes]]()
+- **[SIGIR 2023]** **Fangyuan Luo**, Jun Wu. <u>User-Dependent Learning to Debias for Recommendation</u>. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2023. <font color=Red>(CCF-A Conference)</font> [[paper]](https://dl.acm.org/doi/pdf/10.1145/3539618.3592083) [[codes]]()
 
-- **[IJCAI 2022]** **Fangyuan Luo**, Jun Wu, Tao Wang. <u>Discrete Listwise Personalized Ranking for Fast Top-N Recommendation with Implicit Feedback</u>. The International Joint Conferences on Artificial Intelligence (**IJCAI**), 2022. <font color=Red>(CCF-A Conference)</font> [[paper]]() [[codes]]()
+- **[ACM TOIS 2023]** Honglei Zhang, **Fangyuan Luo**, Jun Wu, Xiangnan He, Yidong Li. <u>LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization</u>. **ACM Transactions on Information Systems**, 2023. <font color=Red>(CCF-A Journal)</font> [[paper]](https://dl.acm.org/doi/pdf/10.1145/3578361) [[codes]]()
 
-- **[SIGIR 2022]** Shuang Tang, **Fangyuan Luo**, Jun Wu. <u>Smooth-AUC: Smoothing the Path Towards Rank-based CTR Prediction</u>. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2022. <font color=Red>(CCF-A Conference)</font> [[paper]]() [[codes]]()
+- **[IJCAI 2022]** **Fangyuan Luo**, Jun Wu, Tao Wang. <u>Discrete Listwise Personalized Ranking for Fast Top-N Recommendation with Implicit Feedback</u>. The International Joint Conferences on Artificial Intelligence (**IJCAI**), 2022. <font color=Red>(CCF-A Conference)</font> [[paper]](https://www.ijcai.org/proceedings/2022/300) [[codes]](https://github.com/Luo-Fangyuan/DLPR)
 
-- **[AAAI 2021]** **Fangyuan Luo**, Jun Wu, Haishuai Wang. <u>Semi-Discrete Social Recommendation (Student Abstract)</u>. The 35th AAAI Conference on Artificial Intelligence (**AAAI**), 2021. <font color=Red>(CCF-A Conference)</font> [[paper]]() [[codes]]()
+- **[SIGIR 2022]** Shuang Tang, **Fangyuan Luo**, Jun Wu. <u>Smooth-AUC: Smoothing the Path Towards Rank-based CTR Prediction</u>. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2022. <font color=Red>(CCF-A Conference)</font> [[paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531865) [[codes]]()
 
-- **[DASFAA 2021]** Junheng Huang, **Fangyuan Luo**, Jun Wu. <u>Semi-supervised Factorization Machines for Review-Aware Recommendation</u>. The 26th International Conference on Database Systems for Advanced Applications (**DASFAA**), 2021. <font color=Red>(CCF-B Conference)</font> [[paper]]() [[codes]]()
+- **[AAAI 2021]** **Fangyuan Luo**, Jun Wu, Haishuai Wang. <u>Semi-Discrete Social Recommendation (Student Abstract)</u>. The 35th AAAI Conference on Artificial Intelligence (**AAAI**), 2021. <font color=Red>(CCF-A Conference)</font> [[paper]](https://aaai.org/papers/15835-semi-discrete-social-recommendation-student-abstract/) [[codes]]()
 
-- **[IEEE IS 2020]** Jun Wu, **Fangyuan Luo**, Yujia Zhang, Haishuai Wang. <u>Semi-discrete Matrix Factorization</u>. **IEEE Intelligent Systems**, 2020. <font color=Red>(CAA-B Journal)</font> [[paper]]() [[codes]]()
+- **[DASFAA 2021]** Junheng Huang, **Fangyuan Luo**, Jun Wu. <u>Semi-supervised Factorization Machines for Review-Aware Recommendation</u>. The 26th International Conference on Database Systems for Advanced Applications (**DASFAA**), 2021. <font color=Red>(CCF-B Conference)</font> [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_6) [[codes]]()
+
+- **[IEEE IS 2020]** Jun Wu, **Fangyuan Luo**, Yujia Zhang, Haishuai Wang. <u>Semi-discrete Matrix Factorization</u>. **IEEE Intelligent Systems**, 2020. <font color=Red>(CAA-B Journal)</font> [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9171422) [[codes]](https://github.com/Luo-Fangyuan/SDMF)
 
 # Services & Awards
 
