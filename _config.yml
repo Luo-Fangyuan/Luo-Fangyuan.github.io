@@ -7,6 +7,7 @@
 # server process.
 
 # Basic Site Settings
+---
 locale                   : "Beijing"
 title                    : "Welcome to Luo-Fangyuan's homepage"
 title_separator          : "-"
