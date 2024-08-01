@@ -25,9 +25,9 @@ author:
   avatar           : "lfy.png"
   name             : "Luo Fangyuan(罗芳媛)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Beijing"
-  employer         : "Beijing University of Technology"
+  bio              : "Lecturer in Beijing University of Technology"
+  location         : # "Beijing"
+  employer         : # "Beijing University of Technology"
   uri              : # URL
   email            : "luofangyuan@bjut.edu.cn" 
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Luo-Fangyuan"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
