@@ -13,7 +13,7 @@ title                    : "Welcome to Luo-Fangyuan's homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Luo-Fangyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Luo-Fangyuan.github.io"
 
@@ -22,7 +22,7 @@ repository               : "Luo-Fangyuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lfy.png"
+  avatar           : "https://Luo-Fangyuan.github.io/images/lfy.png"
   name             : "Luo Fangyuan(罗芳媛)"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer in Beijing University of Technology"
