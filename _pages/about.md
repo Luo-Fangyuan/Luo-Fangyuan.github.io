@@ -22,7 +22,17 @@ Feel free to contact me if you are seeking any form of collaboration.
 
 # Publications
 
-- **[ACM TKDD 2023]** **Fangyuan Luo**, Jun Wu, Tao Wang. <u>Discrete Listwise Content-Aware Recommendation.</u> **ACM Transactions on Knowledge Discovery from Data**, 2023. <font color=Red>(CCF-B Journal)</font>
+- Discrete Listwise Content-Aware Recommendation
+
+  **Fangyuan Luo**, Jun Wu, Tao Wang
+
+  ACM Transactions on Knowledge Discovery from Data, 2024
+
+  [[paper]]() [[codes]]()
+  
+  
+
+- **[ACM TKDD 2024]** **Fangyuan Luo**, Jun Wu, Tao Wang. <u>Discrete Listwise Content-Aware Recommendation.</u> **ACM Transactions on Knowledge Discovery from Data**, 2023. <font color=Red>(CCF-B Journal)</font>
 
 - **[SIGIR 2023]** **Fangyuan Luo**, Jun Wu. <u>User-Dependent Learning to Debias for Recommendation</u>. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2023. <font color=Red>(CCF-A Conference)</font>
 
@@ -37,6 +47,15 @@ Feel free to contact me if you are seeking any form of collaboration.
 - **[DASFAA 2021]** Junheng Huang, **Fangyuan Luo**, Jun Wu. <u>Semi-supervised Factorization Machines for Review-Aware Recommendation</u>. The 26th International Conference on Database Systems for Advanced Applications (**DASFAA**), 2021. <font color=Red>(CCF-B Conference)</font>
 
 - **[IEEE IS 2020]** Jun Wu, **Fangyuan Luo**, Yujia Zhang, Haishuai Wang. <u>Semi-discrete Matrix Factorization</u>. **IEEE Intelligent Systems**, 2020. <font color=Red>(CAA-B Journal)</font>
+
+# Services & Awards
+
+## Services
+
+## Awards
+
+- SIGIR Student Travel Award (2022)
+
 
 # Teaching
 
