@@ -22,10 +22,10 @@ repository               : "Luo-Fangyuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lfy.png"
   name             : "Luo Fangyuan(罗芳媛)"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing"
   employer         : "Beijing University of Technology"
   uri              : # URL
