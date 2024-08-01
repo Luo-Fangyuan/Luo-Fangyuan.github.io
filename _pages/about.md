@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 
+I received my Ph.D. degree in computer science and technology from Beijing Jiaotong University in 2024, supervised by Professor Prof. [Jun Wu](http://faculty.bjtu.edu.cn/8620/). I received my B.S. degree in electronic information science and technology from Hefei University of Technology in 2018.
+
 My research interests are machine learning and data mining for the applications of recommender systems. My recent working topics include but are not limited to:
 
 - Learning to Hash for recommender systems
@@ -18,7 +20,7 @@ My research interests are machine learning and data mining for the applications 
 
 Feel free to contact me if you are seeking any form of collaboration.
 
-title: "Publications"
+# Publications
 
 - **[ACM TKDD 2023]** **Fangyuan Luo**, Jun Wu, Tao Wang. <u>Discrete Listwise Content-Aware Recommendation.</u> **ACM Transactions on Knowledge Discovery from Data**, 2023. <font color=Red>(CCF-B Journal)</font>
 
@@ -36,6 +38,6 @@ title: "Publications"
 
 - **[IEEE IS 2020]** Jun Wu, **Fangyuan Luo**, Yujia Zhang, Haishuai Wang. <u>Semi-discrete Matrix Factorization</u>. **IEEE Intelligent Systems**, 2020. <font color=Red>(CAA-B Journal)</font>
 
-title: "Teaching"
+# Teaching
 
 ---
