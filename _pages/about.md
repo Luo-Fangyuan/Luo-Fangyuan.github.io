@@ -1,4 +1,3 @@
-<div style='display: none'>
 ---
 permalink: /
 title: "Bio & Research Interests"
@@ -7,9 +6,7 @@ redirect_from:
   - /_pages/
   - /about.html
 ---
-</div>
 
-title: "Bio & Research Interests"
 
 My research interests are machine learning and data mining for the applications of recommender systems. My recent working topics include but are not limited to:
 
