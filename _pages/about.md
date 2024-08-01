@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<font face="Comic Sans MS">
 I received my Ph.D. degree in computer science and technology from Beijing Jiaotong University in 2024, supervised by Professor Prof. [Jun Wu](http://faculty.bjtu.edu.cn/8620/). I received my B.S. degree in electronic information science and technology from Hefei University of Technology in 2018.
 
 My research interests are machine learning and data mining for the applications of recommender systems. My recent working topics include but are not limited to:
@@ -19,7 +18,6 @@ My research interests are machine learning and data mining for the applications 
 - Learning to Debias for recommender systems
 
 Feel free to contact me if you are seeking any form of collaboration.
-</font>
 
 # Publications
 
