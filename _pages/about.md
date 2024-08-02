@@ -37,7 +37,7 @@ Feel free to contact me if you are seeking any form of collaboration.
 
 - **[DASFAA 2021]** Junheng Huang, **Fangyuan Luo**, Jun Wu. <u>Semi-supervised Factorization Machines for Review-Aware Recommendation</u>. The 26th International Conference on Database Systems for Advanced Applications (**DASFAA**), 2021. <font color=Red>(CCF-B Conference)</font> [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_6) [[codes]]() [[slides]]() [[poster]]()
 
-- **[IEEE IS 2020]** Jun Wu, **Fangyuan Luo**, Yujia Zhang, Haishuai Wang. <u>Semi-discrete Matrix Factorization</u>. **IEEE Intelligent Systems**, 2020. <font color=Red>(CAA-B Journal)</font> [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9171422) [[codes]](https://github.com/Luo-Fangyuan/SDMF) [[slides]]() [[poster]]()
+- **[IEEE IS 2020]** Jun Wu, **Fangyuan Luo**, Yujia Zhang, Haishuai Wang. <u>Semi-discrete Matrix Factorization</u>. **IEEE Intelligent Systems**, 2020. <font color=Red>(The organizer of AI's 10 to Watch)</font> [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9171422) [[codes]](https://github.com/Luo-Fangyuan/SDMF) [[slides]]() [[poster]]()
 
 # 🏆Services & Awards
 
