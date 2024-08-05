@@ -21,7 +21,7 @@ Feel free to contact me if you are seeking any form of collaboration.
 
 # 📑Publications
 
-- **[AAAI 2024]** **Fangyuan Luo**, Jun Wu. <u>Optimizing Recall in Deep Graph Hashing Framework for Item Retrieval (Student Abstract).</u> **The 38th AAAI Conference on Artificial Intelligence**, 2024. <font color=Red>(CCF-A Conference)</font> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/30477) [[codes]]() [[slides]](https://Luo-Fangyuan.github.io/files/AAAI-SA.pdf) [[poster]](https://Luo-Fangyuan.github.io/files/poster-A1.pdf)
+- **[AAAI 2024]** **Fangyuan Luo**, Jun Wu. <u>Optimizing Recall in Deep Graph Hashing Framework for Item Retrieval (Student Abstract).</u> **The 38th AAAI Conference on Artificial Intelligence**, 2024. <font color=Red>(CCF-A Conference)</font> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/30477) [[codes]]() [[slides]](https://Luo-Fangyuan.github.io/files/AAAI-SA24.pdf) [[poster]](https://Luo-Fangyuan.github.io/files/poster-A1.pdf)
 
 - **[ACM TKDD 2024]** **Fangyuan Luo**, Jun Wu, Tao Wang. <u>Discrete Listwise Content-Aware Recommendation.</u> **ACM Transactions on Knowledge Discovery from Data**, 2023. <font color=Red>(CCF-B Journal)</font> [[paper]](https://dl.acm.org/doi/pdf/10.1145/3609334) [[codes]]() [[slides]]() [[poster]]()
 
