@@ -43,6 +43,9 @@ Feel free to contact me if you are seeking any form of collaboration.
 
 ## Services
 
+### Journal Reviewer
+- Transactions on Knowledge Discovery from Data (TKDD)
+
 ## Awards
 
 - SIGIR Student Travel Award (2022)
