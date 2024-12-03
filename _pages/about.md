@@ -47,6 +47,7 @@ Feel free to contact me if you are seeking any form of collaboration.
 - Transactions on Knowledge Discovery from Data (TKDD)
 - Knowledge and Information Systems (KIS)
 - The Journal of Supercomputing
+- Cluster Computing-The Journal of Networks Software Tools and Applications
 
 ## Awards
 
