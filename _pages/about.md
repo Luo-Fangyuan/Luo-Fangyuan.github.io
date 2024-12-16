@@ -50,7 +50,7 @@ Feel free to contact me if you are seeking any form of collaboration.
 - Cluster Computing-The Journal of Networks Software Tools and Applications
 
 ### Conference Reviewer
--The 30th International Conference on Database Systems for Advanced Applications (DASFAA 2025)
+- The 30th International Conference on Database Systems for Advanced Applications (DASFAA 2025)
 
 ## Awards
 
