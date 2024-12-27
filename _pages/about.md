@@ -44,6 +44,7 @@ Feel free to contact me if you are seeking any form of collaboration.
 ## Services
 
 ### Journal Reviewer
+- Transactions on Information Systems (TOIS)
 - Transactions on Knowledge Discovery from Data (TKDD)
 - Knowledge and Information Systems (KIS)
 - The Journal of Supercomputing
