@@ -21,7 +21,7 @@ Feel free to contact me if you are seeking any form of collaboration.
 
 # 📑Publications
 
-- **[PR2025]** **Fangyuan Luo**, Yankai Chen, Jun Wu, Yidong Li. <u>Rank Gap Sensitive Deep AUC Maximization for CTR Prediction</u> **Pattern Recognition**, 2025. <font color=Red>(SCI Q1, CCF-B Journal)</font> [[paper]]() [[codes]]() [[slides]]() [[poster]]()
+- **[PR2025]** **Fangyuan Luo**, Yankai Chen, Jun Wu, Yidong Li. <u>Rank Gap Sensitive Deep AUC Maximization for CTR Prediction.</u> **Pattern Recognition**, 2025. <font color=Red>(SCI Q1, CCF-B Journal)</font> [[paper]]() [[codes]]() [[slides]]() [[poster]]()
 
 - **[AAAI 2024]** **Fangyuan Luo**, Jun Wu. <u>Optimizing Recall in Deep Graph Hashing Framework for Item Retrieval (Student Abstract).</u> **The 38th AAAI Conference on Artificial Intelligence**, 2024. <font color=Red>(CCF-A Conference)</font> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/30477) [[codes]]() [[slides]](https://Luo-Fangyuan.github.io/files/AAAI-SA24.pdf) [[poster]](https://Luo-Fangyuan.github.io/files/poster-A1.pdf)
 
