@@ -17,7 +17,11 @@ My research interests are machine learning and data mining for the applications 
 
 - Learning to Debias for recommender systems
 
-Feel free to contact me if you are seeking any form of collaboration.
+<div style="border-left: 6px solid #f66; padding: 1em; background: #fff5f5; margin: 1.5em 0; font-size: 16px;">
+  If you are interested in my work, please feel free to reach out to me via email (luofangyuan@bjut.edu.cn).
+</div>
+
+
 
 # 📑Publications
 
@@ -53,8 +57,9 @@ Feel free to contact me if you are seeking any form of collaboration.
 - The Journal of Supercomputing
 - Cluster Computing-The Journal of Networks Software Tools and Applications
 
-### Conference Reviewer
+### PC Member
 - The 30th International Conference on Database Systems for Advanced Applications (DASFAA 2025)
+- AAAI 2025
 
 ## Awards
 
