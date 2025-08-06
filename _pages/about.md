@@ -1,11 +1,3 @@
-<style>
-h1 { font: 26pt Consolas !important; }
-h2 { font: 22pt Consolas !important; }
-h3 { font: 16pt Consolas !important; }
-p { font: 14pt Consolas !important; }
-</style>`
-
-
 ---
 permalink: /
 title: "👧Bio & Research Interests"
@@ -14,6 +6,14 @@ redirect_from:
   - /_pages/
   - /about.html
 ---
+
+<style>
+h1 { font: 26pt song !important; }
+h2 { font: 22pt song !important; }
+h3 { font: 16pt song !important; }
+p { font: 14pt kai !important; }
+</style>`
+
 
 <p>I received my Ph.D. degree in computer science and technology from Beijing Jiaotong University in 2024, supervised by Professor Prof. [Jun Wu](http://faculty.bjtu.edu.cn/8620/). I received my B.S. degree in electronic information science and technology from Hefei University of Technology in 2018.<p/>
 
