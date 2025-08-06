@@ -15,7 +15,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>I received my Ph.D. degree in computer science and technology from Beijing Jiaotong University in 2024, supervised by Professor Prof. [Jun Wu](http://faculty.bjtu.edu.cn/8620/). I received my B.S. degree in electronic information science and technology from Hefei University of Technology in 2018.
+<p>I received my Ph.D. degree in computer science and technology from Beijing Jiaotong University in 2024, supervised by Professor Prof. [Jun Wu](http://faculty.bjtu.edu.cn/8620/). I received my B.S. degree in electronic information science and technology from Hefei University of Technology in 2018.<p/>
 
 My research interests are machine learning and data mining for the applications of recommender systems. My recent working topics include but are not limited to:
 
@@ -24,7 +24,7 @@ My research interests are machine learning and data mining for the applications 
 - Learning to Rank for recommender systems
 
 - Learning to Debias for recommender systems
-<p/>
+
 
 <div style="border-left: 6px solid #f66; padding: 1em; background: #fff5f5; margin: 1.5em 0; font-size: 16px;">
   If you are interested in my work, please feel free to reach out to me via email (luofangyuan@bjut.edu.cn).
