@@ -7,15 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-h1 { font: 26pt song !important; }
-h2 { font: 22pt song !important; }
-h3 { font: 16pt song !important; }
-p { font: 14pt kai !important; }
-</style>`
 
-
-<p>I received my Ph.D. degree in computer science and technology from Beijing Jiaotong University in 2024, supervised by Professor Prof. [Jun Wu](http://faculty.bjtu.edu.cn/8620/). I received my B.S. degree in electronic information science and technology from Hefei University of Technology in 2018.<p/>
+I received my Ph.D. degree in computer science and technology from Beijing Jiaotong University in 2024, supervised by Professor Prof. [Jun Wu](http://faculty.bjtu.edu.cn/8620/). I received my B.S. degree in electronic information science and technology from Hefei University of Technology in 2018.
 
 My research interests are machine learning and data mining for the applications of recommender systems. My recent working topics include but are not limited to:
 
