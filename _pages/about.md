@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👧Bio & Research Interests"
+title: "Bio & Research Interests"
 author_profile: true
 redirect_from: 
   - /_pages/
