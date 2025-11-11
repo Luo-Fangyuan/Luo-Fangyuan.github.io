@@ -143,6 +143,9 @@ analytics:
   google:
     tracking_id          :
 
+remote_theme: yaoyao-liu/minimal-light
+
+font: "Serif" # or "Sans Serif"
 
 # Reading Files
 include:
