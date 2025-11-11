@@ -25,7 +25,7 @@ My research interests are machine learning and data mining for the applications 
 
 
 
-# 📑Publications
+# Publications
 
 - **[PR2025]** **Fangyuan Luo**, Yankai Chen, Jun Wu, Yidong Li. <u>Rank Gap Sensitive Deep AUC Maximization for CTR Prediction.</u> **Pattern Recognition**, 2025. <font color=Red>(SCI Q1, CCF-B Journal)</font> [[paper]]() [[codes]]() [[slides]]() [[poster]]()
 
@@ -47,7 +47,11 @@ My research interests are machine learning and data mining for the applications 
 
 - **[IEEE IS 2020]** Jun Wu, **Fangyuan Luo**, Yujia Zhang, Haishuai Wang. <u>Semi-discrete Matrix Factorization</u>. **IEEE Intelligent Systems**, 2020. <font color=Red>(The organizer of AI's 10 to Watch)</font> [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9171422) [[codes]](https://github.com/Luo-Fangyuan/SDMF) [[slides]]() [[poster]]()
 
-# 🏆Services & Awards
+# Preprints
+
+- **Fangyuan Luo**, Yankai Chen, Jun Wu, Tong Li, Philip S. Yu, Xue Liu. <u>Learning to Hash for Recommendation: A Survey</u> [[arXiv]](https://arxiv.org/abs/2412.03875)
+
+# Services & Awards
 
 ## Services
 
@@ -68,7 +72,9 @@ My research interests are machine learning and data mining for the applications 
 - SIGIR Student Travel Award (2022)
 
 
-# 🧑‍🏫Teaching
+# Teaching
+
+- High Level Language Programming
 
 ---
 
