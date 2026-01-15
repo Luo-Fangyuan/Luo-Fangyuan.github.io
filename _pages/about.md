@@ -64,8 +64,9 @@ My research interests are machine learning and data mining for the applications 
 - Cluster Computing-The Journal of Networks Software Tools and Applications
 
 ### PC Member
-- The 30th International Conference on Database Systems for Advanced Applications (DASFAA 2025)
+- DASFAA 2025
 - AAAI 2026
+- IJCAI 2026
 
 ## Awards
 
