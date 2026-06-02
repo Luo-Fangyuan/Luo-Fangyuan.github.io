@@ -66,6 +66,7 @@ My research interests are machine learning and data mining for the applications 
 - Knowledge and Information Systems (KIS)
 - The Journal of Supercomputing
 - Cluster Computing-The Journal of Networks Software Tools and Applications
+- 计算机学报
 - 计算机研究与发展
 
 ### PC Member
