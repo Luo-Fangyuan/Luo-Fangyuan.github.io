@@ -61,7 +61,7 @@ My research interests are machine learning and data mining for the applications 
 ### Journal Reviewer
 - Transactions on Information Systems (TOIS)
 - Transactions on Knowledge and Data Engineering (TKDE)
-- Information Processing \& Management (IPM)
+- Information Processing & Management (IPM)
 - Transactions on Knowledge Discovery from Data (TKDD)
 - Knowledge and Information Systems (KIS)
 - The Journal of Supercomputing
